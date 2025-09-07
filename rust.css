@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(135deg, #000000, #434343);
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+}
+iframe{
+    display: block;
+    margin:auto;
+    border:none;
+    border-radius:12px;
+    box-shadow:0 12px 30px rgba(0,0,0,0.6);
+}

@@ -1,0 +1,25 @@
+h3{
+    color:antiquewhite;
+    text-align:center;
+    text-decoration:underline;
+    font-size:25px;
+    border-width:1px;
+    border-style:outset;
+    border-color:rgb(63, 16, 63);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background: linear-gradient(135deg, #000000, #434343);
+    transition: all 0.5s ease-in-out;
+}
+hr{
+    height:5px;
+    color:antiquewhite
+}
+iframe{
+     display:block;
+     margin:auto;
+     border:none;
+    border-radius:12px;
+    box-shadow:0 12px 30px rgba(0,0,0,0.6);
+ }

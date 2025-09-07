@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(135deg, #000000, #434343);
+    transition: all 0.5s ease-in-out;
+}
+h3{
+    color:rgb(224, 209, 209);
+    text-align:center;
+    text-decoration:underline;
+    font-family:'Courier New', Courier, monospace;
+    font-size:25px;
+    border-width:1px;
+    border-style:outset;
+    border-color:rgb(4, 2, 7)
+}
+iframe{
+    display:block;
+    margin:auto;
+    border:none;
+    border-radius:12px;
+    box-shadow:0 12px 30px rgba(0,0,0,0.6);
+}
+hr{
+    height:5px;
+    color:antiquewhite;
+}
